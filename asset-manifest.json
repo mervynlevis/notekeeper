@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/notekeeper/static/js/main.e78c9018.chunk.js",
-    "main.js.map": "/notekeeper/static/js/main.e78c9018.chunk.js.map",
+    "main.css": "/notekeeper/static/css/main.4ba59c5b.chunk.css",
+    "main.js": "/notekeeper/static/js/main.3e40e374.chunk.js",
+    "main.js.map": "/notekeeper/static/js/main.3e40e374.chunk.js.map",
     "runtime-main.js": "/notekeeper/static/js/runtime-main.d84c9a86.js",
     "runtime-main.js.map": "/notekeeper/static/js/runtime-main.d84c9a86.js.map",
-    "static/js/2.f9e160d6.chunk.js": "/notekeeper/static/js/2.f9e160d6.chunk.js",
-    "static/js/2.f9e160d6.chunk.js.map": "/notekeeper/static/js/2.f9e160d6.chunk.js.map",
+    "static/js/2.205eecc8.chunk.js": "/notekeeper/static/js/2.205eecc8.chunk.js",
+    "static/js/2.205eecc8.chunk.js.map": "/notekeeper/static/js/2.205eecc8.chunk.js.map",
     "index.html": "/notekeeper/index.html",
-    "static/js/2.f9e160d6.chunk.js.LICENSE.txt": "/notekeeper/static/js/2.f9e160d6.chunk.js.LICENSE.txt"
+    "static/css/main.4ba59c5b.chunk.css.map": "/notekeeper/static/css/main.4ba59c5b.chunk.css.map",
+    "static/js/2.205eecc8.chunk.js.LICENSE.txt": "/notekeeper/static/js/2.205eecc8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d84c9a86.js",
-    "static/js/2.f9e160d6.chunk.js",
-    "static/js/main.e78c9018.chunk.js"
+    "static/js/2.205eecc8.chunk.js",
+    "static/css/main.4ba59c5b.chunk.css",
+    "static/js/main.3e40e374.chunk.js"
   ]
 }
